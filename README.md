@@ -19,15 +19,16 @@ in the array.
 - [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 - [YouTube](https://www.youtube.com/watch?v=P3YID7liBug&index=29&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
 
-## Levenshtein Distance
+## Fibonacci sequence
 
-The Levenshtein distance is a string metric for measuring the 
-difference between two sequences. Informally, the Levenshtein 
-distance between two words is the minimum number of 
-single-character edits (insertions, deletions or substitutions) 
-required to change one word into the other.
+In the Fibonacci sequence of numbers, each number is the sum of the previous
+two numbers. Fibonacci began the sequence not with 0, 1, 1, 2, as modern
+mathematicians do but with 1,1, 2, etc. He carried the calculation up to the
+thirteenth place (fourteenth in modern counting), that is 233, though another
+manuscript carries it to the next place: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89,
+144, 233, 377. Fibonacci did not speak about the golden ratio as the
+limit of the ratio of consecutive numbers in this sequence.
 
 ## References
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance)
-- [YouTube](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
+- [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number)
