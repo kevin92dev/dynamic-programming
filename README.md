@@ -29,6 +29,8 @@ manuscript carries it to the next place: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89,
 144, 233, 377. Fibonacci did not speak about the golden ratio as the
 limit of the ratio of consecutive numbers in this sequence.
 
+![Fibonacci Sequence](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/34%2A21-FibonacciBlocks.png/600px-34%2A21-FibonacciBlocks.png)
+
 ## References
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number)
