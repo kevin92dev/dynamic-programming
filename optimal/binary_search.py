@@ -18,6 +18,7 @@ def search(seek_element):
     end_index = len(ordered_list) - 1
 
     while start_index <= end_index:
+        # Get the middle index
         middle_index = int(start_index + ((end_index - start_index) / 2))
 
         # If we've found the element just return its position.
@@ -31,7 +32,7 @@ def search(seek_element):
             start_index = middle_index + 1
 
 
-print(search(500000))
+print(search(900000))
 
 # Show elapsed time
 end_time = datetime.now()

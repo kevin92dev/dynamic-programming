@@ -20,7 +20,7 @@ def fibonacci(n, _cache={}):
     return n
 
 
-for i in range(30):
+for i in range(40):
     print(fibonacci(i))
 
 # Show elapsed time

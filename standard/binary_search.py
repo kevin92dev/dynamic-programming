@@ -19,7 +19,7 @@ def search(seek_element):
             return ordered_list[index]
 
 
-print(search(500000))
+print(search(900000))
 
 # Show elapsed time
 end_time = datetime.now()
